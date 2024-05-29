@@ -4,38 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c044c3f9-725e-41ef-8de0-e03baa64ac2d" name="Changes" comment="Replace exercises from old in this directory and push up it to git">
-      <change afterPath="$PROJECT_DIR$/../dir1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module1/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module1/hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module1/hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module1/hw5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module1/hw6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module1/module1hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module2/hw1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module2/hw2____.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module2/hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module2/hw5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module2/module2hard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module4/hw15_dlc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/HW_Module4/hw15_main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/homework10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/homework9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/others/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework1/structers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_code_style 4.py" beforeDir="false" />
+    <list default="true" id="c044c3f9-725e-41ef-8de0-e03baa64ac2d" name="Changes" comment="Push up directories with my exercises to the git">
+      <change afterPath="$PROJECT_DIR$/Others/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework1/homework1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework1/homework2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hw6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../structers.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dankas112"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dankas112&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/dankas112/homework.git",
+    "url": "https://github.com/dankas112/Urban.git",
     "accountId": "c3be3603-796f-453d-9ef2-00f838f0833f"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2h9PujakuMuc5iq9n0d3YT4ARyC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -79,7 +50,10 @@
   "keyToString": {
     "Python.hw.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/danii/OneDrive/Рабочий стол/PY/Urban",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -138,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717005408514</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update changes in old directories">
+      <option name="closed" value="true" />
+      <created>1717005469209</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717005469209</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,6 +129,8 @@
     <MESSAGE value="Push up all files to git" />
     <MESSAGE value="Replace exercise in this directory and push up it to git" />
     <MESSAGE value="Replace exercises from old in this directory and push up it to git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replace exercises from old in this directory and push up it to git" />
+    <MESSAGE value="Update changes in old directories" />
+    <MESSAGE value="Push up directories with my exercises to the git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push up directories with my exercises to the git" />
   </component>
 </project>
