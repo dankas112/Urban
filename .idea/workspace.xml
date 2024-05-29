@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c044c3f9-725e-41ef-8de0-e03baa64ac2d" name="Changes" comment="Push up directories with my exercises to the git">
-      <change afterPath="$PROJECT_DIR$/Others/test.py" afterDir="false" />
+    <list default="true" id="c044c3f9-725e-41ef-8de0-e03baa64ac2d" name="Changes" comment="minor changes">
+      <change afterPath="$PROJECT_DIR$/Module1/hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/hw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/hw4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/hw5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/hw6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module1/module1_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Urban.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Urban.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +38,12 @@
     &quot;assignee&quot;: &quot;dankas112&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dankas112/Urban.git",
-    "accountId": "c3be3603-796f-453d-9ef2-00f838f0833f"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dankas112/Urban.git&quot;,
+    &quot;accountId&quot;: &quot;c3be3603-796f-453d-9ef2-00f838f0833f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -49,6 +58,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.hw.executor": "Run",
+    "Python.hw1.executor": "Run",
+    "Python.hw2.executor": "Run",
+    "Python.hw3.executor": "Run",
+    "Python.hw4.executor": "Run",
+    "Python.hw5.executor": "Run",
+    "Python.hw6.executor": "Run",
+    "Python.module1_hard.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -120,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717005469209</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="test changes">
+      <option name="closed" value="true" />
+      <created>1717005916518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717005916518</updated>
+    </task>
+    <task id="LOCAL-00008" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1717006034013</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717006034013</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +164,8 @@
     <MESSAGE value="Replace exercises from old in this directory and push up it to git" />
     <MESSAGE value="Update changes in old directories" />
     <MESSAGE value="Push up directories with my exercises to the git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push up directories with my exercises to the git" />
+    <MESSAGE value="test changes" />
+    <MESSAGE value="minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes" />
   </component>
 </project>
