@@ -5,7 +5,11 @@ class Building:
         Building.total += 1
 
 
-for Building in range(4):
-    print(Building)
+buildings = []
+for x in range(40):
+    building = Building()
+    buildings.append(building)
+    print(building)
 
+print(buildings)
 
