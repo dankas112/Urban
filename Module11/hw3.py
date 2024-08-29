@@ -1,6 +1,3 @@
-import sys
-
-
 def introspection_info(obj):
     info = {}
     str_type = str(type(obj))
